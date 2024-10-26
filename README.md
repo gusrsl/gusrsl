@@ -23,6 +23,9 @@ I have experience in fullstack development, specializing in Node.js, Angular, SQ
 - [**Ionic Mobile App**](https://github.com/usuario/ionic-mobile-app)  
   A mobile app for Android and iOS using Ionic with push notifications and real-time updates.
 
+  ![image](https://github.com/user-attachments/assets/2a3c709b-6e6b-4001-9a5a-46748f7417f6)
+
+
 ---
 
 ## 🌐 Connect with Me:
