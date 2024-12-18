@@ -16,6 +16,15 @@ I have experience in fullstack development, specializing in Node.js, Angular, SQ
 
 ---
 
+## 🐳 Docker & Containerization:
+- **Docker Basics**: Building, running, and managing containers.
+- **Docker Compose**: Multi-container orchestration for development and production.
+- **Docker Desktop**: Local container management.
+- **Portainer**: GUI-based container and volume management.
+- **Docker Hub**: Image management and sharing.
+- **Multi-platform Docker Images**: Building images for ARM and x86 architectures.
+
+
 ## 🌟 Featured Projects:
 - [**Fullstack E-Commerce App**](https://github.com/usuario/fullstack-ecommerce-app)  
   A fullstack app with Node.js, Angular, and SQL Server. Features user authentication, product management, and order processing.
