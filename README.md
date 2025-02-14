@@ -32,10 +32,13 @@ One project I am especially proud of is the development of a hybrid e-commerce p
 
 
 ## 🌟 Featured Projects:
-- [**Backend E-Commerce App**]([https://github.com/usuario/fullstack-ecommerce-app](https://github.com/gusrsl/app-darmacio-back)](https://github.com/gusrsl/app-darmacio-back))  
-  A fullstack app with Node.js, Angular, and SQL Server. Features user authentication, product management, and order processing.
+- [**Backend E-Commerce App**](https://github.com/gusrsl/app-darmacio-back)  
+  A Backend app with Node.js, and SQL Server. Features user authentication, product management, and order processing.
+
+- [**Backend E-Commerce App**](https://github.com/gusrsl/front-shop-app)  
+A Frontend app with Angular and Ionic. Features user authentication, product management, and order processing.
   
-- [**Ionic Mobile App**](https://github.com/usuario/ionic-mobile-app)  
+- [**Ionic Mobile App**](https://github.com/gusrsl/dashboard-ionic)  
   A mobile app for Android and iOS using Ionic with push notifications and real-time updates.
 
   ![image](https://github.com/user-attachments/assets/2a3c709b-6e6b-4001-9a5a-46748f7417f6)
