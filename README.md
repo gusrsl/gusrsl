@@ -5,6 +5,12 @@
 
 I have experience in fullstack development, specializing in Node.js, Angular, SQL Server, and mobile development with Ionic. I'm currently working on improving my cloud computing skills with AWS and Azure.
 
+What are you looking for in your next role? What would you like to avoid?
+In my next role, I am seeking an opportunity to work with modern JavaScript frameworks like Angular, React, or Vue, while also expanding my backend expertise with Node.js and NestJS. I am particularly interested in cloud-native solutions, containerization (Docker, Docker Compose), and DevOps practices like CI/CD using Jenkins and Portainer. I enjoy agile environments with Scrum and tools like Jira, where collaboration and continuous improvement are encouraged. I would like to avoid stagnant environments with outdated technologies or a lack of growth opportunities.
+
+Describe a project that you worked on that you are proud of:
+One project I am especially proud of is the development of a hybrid e-commerce platform for a sports footwear company. The goal was to create a system capable of handling both web and mobile users. I led the development using Angular and Ionic for the frontend, and Node.js with NestJS and PostgreSQL for the backend. I implemented Docker Compose to orchestrate the development and production environments and set up CI/CD pipelines with Jenkins for automated builds and deployments. Additionally, I integrated payment processing and inventory management while optimizing performance with database indexing and query improvements. This project significantly improved the company’s online presence and automated their deployment processes, reducing release times by 40%. My contributions spanned from system architecture design to coding and deploying the final product on Linux servers using Portainer for container management.
+
 ---
 
 ## 🛠️ Technologies & Tools:
