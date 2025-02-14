@@ -35,7 +35,7 @@ One project I am especially proud of is the development of a hybrid e-commerce p
 - [**Backend E-Commerce App**](https://github.com/gusrsl/app-darmacio-back)  
   A Backend app with Node.js, and SQL Server. Features user authentication, product management, and order processing.
 
-- [**Backend E-Commerce App**](https://github.com/gusrsl/front-shop-app)  
+- [**Frontend E-Commerce App**](https://github.com/gusrsl/front-shop-app)  
 A Frontend app with Angular and Ionic. Features user authentication, product management, and order processing.
   
 - [**Ionic Mobile App**](https://github.com/gusrsl/dashboard-ionic)  
